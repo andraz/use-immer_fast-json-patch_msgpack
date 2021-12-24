@@ -1,0 +1,29 @@
+{
+  "name": "useimmer-fast-json-patch-msgpack",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@msgpack/msgpack": "2.7.1",
+    "fast-json-patch": "3.1.0",
+    "immer": "9.0.7",
+    "react": "18.0.0-rc.0",
+    "react-dom": "18.0.0-rc.0",
+    "react-scripts": "5.0.0",
+    "use-immer": "0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
